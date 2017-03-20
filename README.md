@@ -1,3 +1,3 @@
 # udacity_git
 ## all my stuff while learning...
-being serios, all the stuff, or as an alteranative fact, the copyright, tothe samples belongs to ###udacity!!!
+being serious, all the stuff, or, as an alteranative fact, the copyright, to the samples and code belongs to udacity!!!
